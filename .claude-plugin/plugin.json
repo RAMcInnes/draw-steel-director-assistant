@@ -1,0 +1,18 @@
+{
+  "name": "draw-steel-director-assistant",
+  "displayName": "Draw Steel Director Assistant",
+  "version": "1.0.0",
+  "description": "Narrative-first campaign, arc, session, and encounter design for Draw Steel TTRPG. Includes 8 skills and a Draw Steel reference library.",
+  "author": {
+    "name": "Robert McInnes"
+  },
+  "repository": "https://github.com/ramcinnes/draw-steel-director-assistant",
+  "license": "MIT",
+  "keywords": [
+    "ttrpg",
+    "tabletop",
+    "draw-steel",
+    "campaign-design",
+    "encounter-design"
+  ]
+}

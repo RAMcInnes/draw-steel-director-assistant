@@ -1,0 +1,14 @@
+{
+    "name": "ramcinnes",
+    "description": "Robert McInnes's Claude Cloud plugins",
+    "owner": {
+        "name": "Robert McInnes"
+    },
+    "plugins": [
+        {
+            "name": "draw-steel-director-assistant",
+            "description": "Narrative-first campaign, arc, session, and encounter design for Draw Steel TTRPG. Includes 8 skills and a Draw Steel reference library.",
+            "source": "./"
+        }
+    ]
+}
